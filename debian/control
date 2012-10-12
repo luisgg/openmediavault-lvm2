@@ -3,6 +3,7 @@ Section: net
 Priority: optional
 Maintainer: Volker Theile <volker.theile@openmediavault.org>
 Build-Depends: debhelper (>> 7), gettext
+Uploaders: Luis Antonio Garcia Gisbert <luisgg@gmail.com>
 Standards-Version: 3.6.10
 Homepage: http://www.openmediavault.org
 
