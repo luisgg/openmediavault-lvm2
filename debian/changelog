@@ -1,6 +1,6 @@
-openmediavault-clamav (0.4.1+svn345-0aurex1) precise; urgency=low
+openmediavault-lvm2 (0.4+svn338-0aurex1) precise; urgency=low
 
-  * Upstream snapshot based on 'trunk' revision 345 (2012-10-12)
+  * Upstream snapshot based on 'trunk' revision 338 (2012-10-12)
   * Rebuild for aurex 12.04
 
  -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Sat, 13 Oct 2012 01:30:41 +0200
